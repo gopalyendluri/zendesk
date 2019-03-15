@@ -1,4 +1,4 @@
-connection: "stitch_vandelay"
+connection: "tn-warehouse"
 
 # include all the views
 include: "*.view"
