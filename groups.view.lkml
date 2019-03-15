@@ -1,5 +1,5 @@
 view: groups {
-  sql_table_name: looker_zendesk.zendesk_groups ;;
+  sql_table_name: zendeskcs.zendesk_groups ;;
 
   dimension: id {
     primary_key: yes
