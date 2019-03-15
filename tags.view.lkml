@@ -1,5 +1,5 @@
 view: tag_types {
-  sql_table_name: zendeskcs.zendesk_tags ;;
+  sql_table_name: zendeskcs.tags ;;
 
   dimension: count {
     type: number

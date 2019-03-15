@@ -1,5 +1,5 @@
 view: ticket_metrics {
-  sql_table_name: zendeskcs.zendesk_ticket_metrics ;;
+  sql_table_name: zendeskcs.ticket_metrics ;;
   #   definition resource: https://developer.zendesk.com/rest_api/docs/core/ticket_metrics
 
   dimension: id {

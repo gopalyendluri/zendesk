@@ -1,5 +1,5 @@
 view: groups {
-  sql_table_name: zendeskcs.zendesk_groups ;;
+  sql_table_name: zendeskcs.groups ;;
 
   dimension: id {
     primary_key: yes
