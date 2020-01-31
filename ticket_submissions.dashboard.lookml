@@ -31,7 +31,6 @@
     show_comparison: false
     listen:
       date: tickets.created_at_date
-      organization: tickets.organization_name
 
   - name: orgs_submitting
     type: single_value

@@ -30,7 +30,7 @@ view: users {
 
   dimension: email {
     type: string
-    sql: ${TABLE}.email ;;
+    sql: ${TABLE}.name ;;
   }
 
   dimension_group: last_login {
