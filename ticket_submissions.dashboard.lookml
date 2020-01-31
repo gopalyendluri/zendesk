@@ -125,7 +125,7 @@
     sorts: [tickets.time_hour_of_day]
     limit: 500
     column_limit: 50
-    stacking: percent
+    stacking: number
     show_value_labels: false
     label_density: 25
     legend_position: center
@@ -156,7 +156,7 @@
     sorts: [tickets.time_day_of_week]
     limit: 500
     column_limit: 50
-    stacking: percent
+    stacking: number
     show_value_labels: false
     label_density: 25
     legend_position: center
